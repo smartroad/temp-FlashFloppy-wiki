@@ -11,7 +11,7 @@ drive heads are stepped. A piezo sounder can be connected directly
 between jumper JB and Ground, marked respectively as SPEAKER and GND
 in the picture below.
 
-![Piezo speaker](assets/piezo.jpg)
+![Piezo speaker](assets/piezo.png)
 
 If you want to connect a magnetic speaker instead, you must buffer via
 an NPN transistor. If you don't know what this means just be sure to
@@ -87,11 +87,11 @@ two pins then these are connected to an internal push switch: you can
 wire these pins to jumper JA to use the switch as an
 [eject/select button](#ejectselect-button).
 
-###PCB Rotary Encoder Connection
-![Rotary Encoder Connection](assets/rotsel-pcb.jpg)
+PCB Rotary Encoder Connection
+![Rotary Encoder Connection](assets/rotsel-pcb.png)
 
-###Direct Rotary Encoder Connection
-![Rotary Encoder Connection](assets/rotsel-direct.jpg)
+Direct Rotary Encoder Connection
+![Rotary Encoder Connection](assets/rotsel-direct.png)
 
 Rotating the dial should now have the same effect as pushing the
 buttons: anti-clockwise for down, and clockwise for up.
