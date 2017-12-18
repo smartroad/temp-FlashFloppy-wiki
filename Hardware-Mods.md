@@ -40,12 +40,10 @@ You can locate SCL, SDA, and GND on your Gotek PCB as below. These
 connect to the corresponding header pins on your LCD I2C backpack
 module.
 
-![LCD data/clock interface](assets/header_closeup.jpg)
+![LCD data/clock interface](assets/lcd-backpack.png)
 
 VCC (aka 5V) can be found in various places, including just behind the
 floppy power connector.
-
-![LCD VCC](assets/jumpers.jpg)
 
 The SCL and SDA lines must be connected to VCC ("pulled up" to VCC)
 via 4.7k resistors.  Note that many I2C boards have the pullup
