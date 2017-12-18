@@ -71,7 +71,7 @@ header marked GND, VCC, SCL, SDA.
 These displays can simply connect to the 7-segment display's header,
 reusing the existing jumper wires, as in the pictires below.
 
-![OLED Display Front](assets/oled.png)
+![OLED Display Front](assets/OLED.png)
 
 ## Rotary Encoder
 
