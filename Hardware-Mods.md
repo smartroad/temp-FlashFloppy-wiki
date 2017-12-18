@@ -4,6 +4,9 @@
 - [OLED Display](#oled-display)
 - [Rotary Encoder](#rotary-encoder)
 
+## Board Pin Layout
+![Board Pin Layout](assets/pinout.png)
+
 ## Speaker
 
 A speaker can be attached to the Gotek to sound whenever the floppy
