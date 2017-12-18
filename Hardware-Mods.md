@@ -22,7 +22,7 @@ shown above.
 
 FlashFloppy supports a third button in addition to the basic up/down
 controls. This should be a standard momentary microswitch, connected
-to the header pins JA.
+to the header pins JA ([Rotary Encoder](#rotary-encoder)).
 
 The button's effect depends on the current state of operation:
 - When an image is loaded, the button will immediately eject it
